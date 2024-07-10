@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer, Expertise in Front-end and Back-end Development</h3>
 
 
-<img alt="coding" align="right" width="400" src="https://github.com/Rishi3218/Rishi3218/assets/91680764/5265d390-40e6-48cc-bbe4-b1fd4a43b78b">
+<img alt="coding" align="right" width="400" height="350" src="https://github.com/Rishi3218/Rishi3218/assets/91680764/5265d390-40e6-48cc-bbe4-b1fd4a43b78b">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi3218&label=Profile%20views&color=0e75b6&style=flat" alt="rishi3218" /> </p>
