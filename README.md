@@ -1,3 +1,5 @@
+![logo](https://github.com/Rishi3218/Rishi3218/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Rishi Sharma</h1>
 <h3 align="center">Full Stack Developer, Expertise in Front-end and Back-end Development</h3>
 
